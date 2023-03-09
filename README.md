@@ -6,7 +6,7 @@ To generate Node application:
 
     npx express-generator
     
-Install dependecies:
+Install dependencies:
 
     npm install
     
