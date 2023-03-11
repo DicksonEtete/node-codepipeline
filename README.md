@@ -10,7 +10,7 @@ Install dependencies:
 
     npm install
     
-Run Application:
+Run Application locally:
 
     npm start
     
